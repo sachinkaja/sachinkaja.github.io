@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.93df491d.css",
-    "main.js": "/static/js/main.ea5814eb.js",
+    "main.css": "/static/css/main.4a9fc95c.css",
+    "main.js": "/static/js/main.86445bd3.js",
     "static/media/POS API.png": "/static/media/POS API.ecb09d7c83195eaff09f.png",
     "static/media/arnavmahajan_11910_semIV.pdf": "/static/media/arnavmahajan_11910_semIV.2c07d37ec45aa7efefee.pdf",
     "static/media/Boulder Doging Game.png": "/static/media/Boulder Doging Game.81c522b26dfd8281b8ca.png",
@@ -68,11 +68,11 @@
     "static/media/skype.png": "/static/media/skype.c8d7ee175da5b4c8a8ab.png",
     "index.html": "/index.html",
     "static/media/circle.svg": "/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
-    "main.93df491d.css.map": "/static/css/main.93df491d.css.map",
-    "main.ea5814eb.js.map": "/static/js/main.ea5814eb.js.map"
+    "main.4a9fc95c.css.map": "/static/css/main.4a9fc95c.css.map",
+    "main.86445bd3.js.map": "/static/js/main.86445bd3.js.map"
   },
   "entrypoints": [
-    "static/css/main.93df491d.css",
-    "static/js/main.ea5814eb.js"
+    "static/css/main.4a9fc95c.css",
+    "static/js/main.86445bd3.js"
   ]
 }
