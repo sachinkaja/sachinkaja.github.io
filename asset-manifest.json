@@ -1,19 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.b2d27eb9.css",
-    "main.js": "/static/js/main.2f6d727d.js",
+    "main.css": "/static/css/main.84d2e554.css",
+    "main.js": "/static/js/main.a318eab3.js",
     "static/media/POS API.png": "/static/media/POS API.ecb09d7c83195eaff09f.png",
     "static/media/arnavmahajan_11910_semIV.pdf": "/static/media/arnavmahajan_11910_semIV.2c07d37ec45aa7efefee.pdf",
     "static/media/Boulder Doging Game.png": "/static/media/Boulder Doging Game.81c522b26dfd8281b8ca.png",
     "static/media/dataanalysit.png": "/static/media/dataanalysit.14eb441d5043db1e48b3.png",
     "static/media/cloudcomputing.png": "/static/media/cloudcomputing.3224fe643b5816ec8f07.png",
+    "static/media/IOTNetwork.png": "/static/media/IOTNetwork.b57b813468630a9d4d79.png",
     "static/media/dbmanagement.png": "/static/media/dbmanagement.f43419faa52172f9bd34.png",
     "static/media/Forum.png": "/static/media/Forum.7c6cd5d775b09cca0b75.png",
     "static/media/bgIMG.png": "/static/media/bgIMG.c39101e520e2997fc6d4.png",
     "static/media/bgWhite.png": "/static/media/bgWhite.79658cadae50b3b16ee5.png",
     "static/media/nike.png": "/static/media/nike.da1badcdee07fbb6ce4b.png",
     "static/media/developer-blue.gif": "/static/media/developer-blue.5b125b967b732f6c703a.gif",
+    "static/media/stockPricePredictionOutside.png": "/static/media/stockPricePredictionOutside.8c26de9a0e8e93c39f31.png",
+    "static/media/IOTNetwirkInside.png": "/static/media/IOTNetwirkInside.e6a13ba914285dd92e51.png",
+    "static/media/deathCauseOutside.png": "/static/media/deathCauseOutside.a8630289e7c292fc206c.png",
+    "static/media/imageClassifcationDataset.png": "/static/media/imageClassifcationDataset.c265a30a996f910c5b51.png",
     "static/media/spotify.png": "/static/media/spotify.2b5e9be1eb1ab501e7cd.png",
+    "static/media/bigDataAnalytics.png": "/static/media/bigDataAnalytics.cf5238be17b72fd15beb.png",
     "static/media/E-voting.png": "/static/media/E-voting.b8012fd64d939860b761.png",
     "static/media/nb.png": "/static/media/nb.98f3253e32cc67a4cb5e.png",
     "static/media/logo_sachin.png": "/static/media/logo_sachin.866dc23dcf56733bd64b.png",
@@ -29,6 +35,8 @@
     "static/media/dashboard.png": "/static/media/dashboard.91ad898ff53dcdfb4395.png",
     "static/media/Website Icon.png": "/static/media/Website Icon.a95afc0742c26bc61480.png",
     "static/media/Guess the number.jpeg": "/static/media/Guess the number.72a86e52c2faa8ff84cd.jpeg",
+    "static/media/farmGame.png": "/static/media/farmGame.e2ec9e475ef6c87d90a0.png",
+    "static/media/stockPricePredictionInside.png": "/static/media/stockPricePredictionInside.cee033733e8476462060.png",
     "static/media/frontend_about.png": "/static/media/frontend_about.8415de01b1d55383c6d0.png",
     "static/media/aws.png": "/static/media/aws.d2f2552ec7282764ecaf.png",
     "static/media/grouple.jpeg": "/static/media/grouple.d7840fe91938b27fab88.jpeg",
@@ -36,6 +44,7 @@
     "static/media/Med Chain.jpeg": "/static/media/Med Chain.d2f0aca890234a1dcb1e.jpeg",
     "static/media/powerpoint.png": "/static/media/powerpoint.9c812d0043c0eb687b73.png",
     "static/media/logo_sachin_new.png": "/static/media/logo_sachin_new.6d3c3d62076af63683ab.png",
+    "static/media/deathCauseInside.png": "/static/media/deathCauseInside.c11fe4dd1627ef6127b7.png",
     "static/media/deep-learning.png": "/static/media/deep-learning.275bd556dd50b2ec6060.png",
     "static/media/Add_goal.jpeg": "/static/media/Add_goal.4fd0e75954f9072d31f8.jpeg",
     "static/media/apachespark.resized.png": "/static/media/apachespark.resized.ba81d4706cbcc7594591.png",
@@ -50,6 +59,7 @@
     "static/media/web developer.png": "/static/media/web developer.efacfba6d3a578b7d45b.png",
     "static/media/arnav-logo-removebg-preview.png": "/static/media/arnav-logo-removebg-preview.efab9cfc0c00da694953.png",
     "static/media/backend_development_about.png": "/static/media/backend_development_about.ed9a6da127bea0987ae1.png",
+    "static/media/navbarIcon.png": "/static/media/navbarIcon.cb4109ce133c8d77cdbe.png",
     "static/media/node.png": "/static/media/node.8683d89cf78ffae3d1f7.png",
     "static/media/cpp.png": "/static/media/cpp.9002a804bbfa0354d0b8.png",
     "static/media/backenddevelopment.png": "/static/media/backenddevelopment.bb405ae546e45a806182.png",
@@ -68,11 +78,11 @@
     "static/media/skype.png": "/static/media/skype.c8d7ee175da5b4c8a8ab.png",
     "index.html": "/index.html",
     "static/media/circle.svg": "/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
-    "main.b2d27eb9.css.map": "/static/css/main.b2d27eb9.css.map",
-    "main.2f6d727d.js.map": "/static/js/main.2f6d727d.js.map"
+    "main.84d2e554.css.map": "/static/css/main.84d2e554.css.map",
+    "main.a318eab3.js.map": "/static/js/main.a318eab3.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2d27eb9.css",
-    "static/js/main.2f6d727d.js"
+    "static/css/main.84d2e554.css",
+    "static/js/main.a318eab3.js"
   ]
 }
