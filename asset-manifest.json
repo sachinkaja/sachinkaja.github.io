@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.84d2e554.css",
-    "main.js": "/static/js/main.a318eab3.js",
+    "main.js": "/static/js/main.b5041e14.js",
     "static/media/POS API.png": "/static/media/POS API.ecb09d7c83195eaff09f.png",
     "static/media/arnavmahajan_11910_semIV.pdf": "/static/media/arnavmahajan_11910_semIV.2c07d37ec45aa7efefee.pdf",
     "static/media/Boulder Doging Game.png": "/static/media/Boulder Doging Game.81c522b26dfd8281b8ca.png",
@@ -10,6 +10,7 @@
     "static/media/IOTNetwork.png": "/static/media/IOTNetwork.b57b813468630a9d4d79.png",
     "static/media/dbmanagement.png": "/static/media/dbmanagement.f43419faa52172f9bd34.png",
     "static/media/Forum.png": "/static/media/Forum.7c6cd5d775b09cca0b75.png",
+    "static/media/graphicalPassword.png": "/static/media/graphicalPassword.de73dbab5c1d221e0d05.png",
     "static/media/bgIMG.png": "/static/media/bgIMG.c39101e520e2997fc6d4.png",
     "static/media/bgWhite.png": "/static/media/bgWhite.79658cadae50b3b16ee5.png",
     "static/media/nike.png": "/static/media/nike.da1badcdee07fbb6ce4b.png",
@@ -79,10 +80,10 @@
     "index.html": "/index.html",
     "static/media/circle.svg": "/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
     "main.84d2e554.css.map": "/static/css/main.84d2e554.css.map",
-    "main.a318eab3.js.map": "/static/js/main.a318eab3.js.map"
+    "main.b5041e14.js.map": "/static/js/main.b5041e14.js.map"
   },
   "entrypoints": [
     "static/css/main.84d2e554.css",
-    "static/js/main.a318eab3.js"
+    "static/js/main.b5041e14.js"
   ]
 }
